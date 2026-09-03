@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Squarespace Inc/Squarespace 6//v6//EN
+BEGIN:VEVENT
+UID:5de7d2cea6c1497f49cec24d@squarespace.com
+DTSTAMP:20210415T195702Z
+DTSTART:20191207T180000Z
+DTEND:20191208T010000Z
+SUMMARY:Final Presentations: Buoyant Ecologies Blueprint Studio
+GEO:37.767376;-122.399486
+LOCATION:California College of the Arts\, 1111 8th Street\, San Francisco\, 
+ CA\, 94107\, United States
+END:VEVENT
+END:VCALENDAR
